@@ -1,0 +1,100 @@
+{
+    "musics":
+    [
+        {
+            "id": 1,
+            "name":"Don't Cry",
+            "img":"/img/m1.jpeg",
+            "artist":"Guns N' Roses",
+            "category":"Rock"
+        },
+
+        {
+            "id": 2,
+            "name":"Superman",
+            "img":"/img/m2.jpg",
+            "artist":"Eminem",
+            "category":"Rap"
+        },
+
+        {
+            "id": 3,
+            "name":"All The Small Things",
+            "img":"/img/m3.jpg",
+            "artist":"Blink-182",
+            "category":"Rock"
+        },
+
+        {
+            "id": 4,
+            "name":"Great Balls Of Fire",
+            "img":"/img/m4.jpg",
+            "artist":"Jerry Lee Lewis",
+            "category":"Rock"
+        },
+
+        {
+            "id": 5,
+            "name":"Venom",
+            "img":"/img/m5.jpg",
+            "artist":"Eminem",
+            "category":"Rap"
+        },
+
+        {
+            "id": 6,
+            "name":"La Bachata",
+            "img":"/img/m6.jpeg",
+            "artist":"Fran El Niño",
+            "category":"Reggaeton"
+        },
+
+        {
+            "id": 7,
+            "name":"Ojitos Lindos",
+            "img":"/img/m7.jpeg",
+            "artist":"Bad Bunny",
+            "category":"Reggaeton"
+        },
+
+        {
+            "id": 8,
+            "name":"XO Tour Lif3",
+            "img":"/img/m8.jpeg",
+            "artist":"Lil Uzi Vert",
+            "category":"Trap"
+        },
+
+        {
+            "id": 9,
+            "name":"Monotonía",
+            "img":"/img/m9.jpg",
+            "artist":"Shakira",
+            "category":"Reggaeton"
+        },
+
+        {
+            "id": 10,
+            "name":"Said It's Lit",
+            "img":"/img/m10.jpg",
+            "artist":"22Gz",
+            "category":"Trap"
+        },
+
+        {
+            "id": 11,
+            "name":"MOONLIGHT",
+            "img":"/img/m11.png",
+            "artist":"XXXTENTACION",
+            "category":"Trap"
+        },
+
+        {
+            "id": 12,
+            "name":"Chill Bill",
+            "img":"/img/m12.jpg",
+            "artist":"Rob $tone",
+            "category":"Rap"
+        }
+    ]
+}
